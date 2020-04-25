@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My cute cat](http://www.cutestpaw.com/wp-content/uploads/2016/02/Fashionable-feline..jpg)
